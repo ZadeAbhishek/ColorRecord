@@ -174,3 +174,6 @@ window.onload = function () {
 //     ctx2.beginPath()
 //   }, 500 * i)
 // }
+
+
+// commenting 
