@@ -46,3 +46,20 @@ body, html {
     width: 100px;
     height: 100px;
 }
+#button4{
+    position: absolute;
+    right:0px;
+    top: 300px;
+    background-color: bisque;
+    width: 100px;
+    height: 100px;
+}
+#button5{
+    position: absolute;
+    right:0px;
+    top: 400px;
+    background-color: bisque;
+    width: 100px;
+    height: 100px;
+}
+
